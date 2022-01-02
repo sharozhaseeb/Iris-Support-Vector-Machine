@@ -4,4 +4,4 @@ Implemented a program using sklearn library catering to the dual problems and us
 This implementation uses 4 different kernels to find the most optimized values of alpha for high prediction confidence.
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/83841336/147871935-8c187550-1576-4d7a-b1d0-54886d63ee87.png" alt="C" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/83841336/147871935-8c187550-1576-4d7a-b1d0-54886d63ee87.png" alt="C" width="4000" height="400"/>
